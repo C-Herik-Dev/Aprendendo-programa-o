@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="Fotos e imagens/favicon010.ico" type="image/x-icon">
     <title>Social</title>
-    <style></style>
 </head>
 <body>
     <h1>Minhas redes sociais</h1>
